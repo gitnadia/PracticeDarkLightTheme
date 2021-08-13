@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  PracticeDarkLightTheme
 //
-//  Created by nadezda.gura on 12/08/2021.
+//  Created by nadezda.gura 
 //
 
 import UIKit
